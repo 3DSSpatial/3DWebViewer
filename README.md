@@ -1,5 +1,5 @@
 
-# 3D Mini Viewer
+# Spatial 3D Web Viewer
 This viewer allows to display .scs files in a browser.
 
 ## Running the demo
