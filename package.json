@@ -1,5 +1,5 @@
 {
-  "name": "miniviewer3d",
+  "name": "Spatial3DWebViewer",
   "version": "0.0.1",
   "description": "Web Viewer for scs files",
   "main": "index.js",
