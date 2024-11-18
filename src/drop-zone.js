@@ -18,7 +18,7 @@ class DropZone extends HTMLElement {
     <div class="m-auto">
       <div class="flex flex-col space-y-2 items-center justify-center">
         <i class="fas fa-cloud-upload-alt fa-3x text-currentColor" />
-        <p class="text-gray-700 text-center">Spatial 3DMiniViewer</p>
+        <p class="text-gray-700 text-center">Spatial 3D Web Viewer</p>
       </div>
     </div>
   </div>
